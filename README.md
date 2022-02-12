@@ -10,5 +10,5 @@ Refactor existing site to make it more accessible.
 ## Website
 https://amberlyanieto.github.io/horiseon_refactor/
 
-
+![horiseon picture](./assets/images/Horiseon.png)
 
